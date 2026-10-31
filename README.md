@@ -4,7 +4,7 @@
 
 nofan 的社区介绍页与 404 页面源码，包含本站功能、表情包、界面主题、机器人，以及博客、捐助、Beta 和开发路线图入口。
 
-这是独立静态项目，使用原生 HTML、CSS 和 JavaScript，无需构建或安装运行依赖。当前仓库用于维护页面源码，不会自动替换线上网站。
+这是独立静态项目，使用原生 HTML、CSS 和 JavaScript，无需构建或安装运行依赖。当前仓库用于维护页面源码，不会自动部署。线上介绍页位于 [nofan.xyz/overview](https://nofan.xyz/overview)。
 
 ![首页预览](docs/preview-desktop.png)
 
@@ -51,7 +51,7 @@ npm run check
 
 ## 部署
 
-将页面文件和 `assets/` 按相对目录发布到静态服务器即可。`404.html` 需要在所用托管服务中配置为错误页。仓库未开启 GitHub Pages 或自动部署，也未更改 nofan.xyz 的当前页面。
+将页面文件和 `assets/` 按相对目录发布到静态服务器即可。`404.html` 需要在所用托管服务中配置为错误页。仓库未开启 GitHub Pages 或自动部署。2026-10-31 已将此页面部署到 nofan.xyz/overview；发布记录见 [docs/deployment.md](docs/deployment.md)。
 
 正式接入时需验证资源路径、缓存与安全策略、登录入口及 404 路由。首页中的登录、外观设置、捐助和其他相关服务会打开实际站点。
 
