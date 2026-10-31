@@ -1,0 +1,141 @@
+{
+  "created": "2026-10-31",
+  "emoji_snapshot": "2026-10-30",
+  "emoji_api": "https://nofan.xyz/api/v1/custom_emojis",
+  "overview": "https://nofan.xyz/overview",
+  "instance": "https://nofan.xyz/api/v2/instance",
+  "brand": "Existing Mastodon repository SVG illustrations; do not claim nofan authorship",
+  "themes": "User supplied PNG screenshots; menu/order/visual mapping",
+  "features": "User supplied rich text, search filter and account switcher PNG screenshots",
+  "credits": [
+    {
+      "category": "微博表情",
+      "credit": "来源：本站表情接口；作者及授权信息待补充"
+    },
+    {
+      "category": "未分类",
+      "credit": "来源：本站表情接口；作者及授权信息待补充"
+    },
+    {
+      "category": "AC",
+      "credit": "来源：本站表情接口；作者及授权信息待补充"
+    },
+    {
+      "category": "acnh",
+      "credit": "来源于网络 · 任天堂"
+    },
+    {
+      "category": "akko",
+      "credit": "来源：本站表情接口；作者及授权信息待补充"
+    },
+    {
+      "category": "aru",
+      "credit": "作者：_SiC_ · 微博"
+    },
+    {
+      "category": "blackcat",
+      "credit": "来源：本站表情接口；作者及授权信息待补充"
+    },
+    {
+      "category": "blob",
+      "credit": "转自 o3o 站 · GNU / blobcat"
+    },
+    {
+      "category": "blobcat",
+      "credit": "转自 o3o 站 · GNU / blobcat"
+    },
+    {
+      "category": "BloodPressure",
+      "credit": "来源：本站表情接口；作者及授权信息待补充"
+    },
+    {
+      "category": "cash",
+      "credit": "来源：本站表情接口；作者及授权信息待补充"
+    },
+    {
+      "category": "chiikawa",
+      "credit": "来源：本站表情接口；作者及授权信息待补充"
+    },
+    {
+      "category": "eveonecat",
+      "credit": "来源：本站表情接口；作者及授权信息待补充"
+    },
+    {
+      "category": "fox friends",
+      "credit": "来源：本站表情接口；作者及授权信息待补充"
+    },
+    {
+      "category": "ghibli",
+      "credit": "来源：本站表情接口；作者及授权信息待补充"
+    },
+    {
+      "category": "ikea",
+      "credit": "来源：本站表情接口；作者及授权信息待补充"
+    },
+    {
+      "category": "KanaheiWinnie",
+      "credit": "来源：本站表情接口；作者及授权信息待补充"
+    },
+    {
+      "category": "lyliasame",
+      "credit": "来源：本站表情接口；作者及授权信息待补充"
+    },
+    {
+      "category": "natsume",
+      "credit": "来源：本站表情接口；作者及授权信息待补充"
+    },
+    {
+      "category": "nekomimi",
+      "credit": "作者：peas · LINE sticker"
+    },
+    {
+      "category": "neocat",
+      "credit": "转自 is-a.wyvern.rip/@volpeon"
+    },
+    {
+      "category": "Pokémon",
+      "credit": "来源：本站表情接口；作者及授权信息待补充"
+    },
+    {
+      "category": "pokemon",
+      "credit": "转自猫站 · 作者不详"
+    },
+    {
+      "category": "raccoon",
+      "credit": "来自本站用户 @theo1746 原创设计"
+    },
+    {
+      "category": "sanrio",
+      "credit": "来源：本站表情接口；作者及授权信息待补充"
+    },
+    {
+      "category": "sheep",
+      "credit": "本站管理员 @ChuckL 原创设计"
+    },
+    {
+      "category": "spy family",
+      "credit": "来源：本站表情接口；作者及授权信息待补充"
+    },
+    {
+      "category": "squirrel",
+      "credit": "来源：本站表情接口；作者及授权信息待补充"
+    },
+    {
+      "category": "tzcat",
+      "credit": "来源：本站表情接口；作者及授权信息待补充"
+    },
+    {
+      "category": "winnie",
+      "credit": "转自赌站 · 迪士尼版权"
+    },
+    {
+      "category": "xiaohongshu",
+      "credit": "来自小红书官方"
+    },
+    {
+      "category": "Xmas",
+      "credit": "来源：本站表情接口；作者及授权信息待补充"
+    }
+  ],
+  "notes": "Known emoji credits copied from existing overview; other authors not established. Full group media requires a network connection."
+}

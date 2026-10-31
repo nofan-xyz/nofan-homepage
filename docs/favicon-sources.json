@@ -1,0 +1,22 @@
+[
+  {
+    "file": "assets/brand/favicon-16.png",
+    "source": "https://media.nofan.xyz/nofan-box/site_uploads/files/000/000/011/16/4528e0d81da0d761.png",
+    "sha256": "C3CB84620D7777751A2D083C49FC8F321B4AE95C60A588AFA7E27516F2D87154"
+  },
+  {
+    "file": "assets/brand/favicon-32.png",
+    "source": "https://media.nofan.xyz/nofan-box/site_uploads/files/000/000/011/32/4528e0d81da0d761.png",
+    "sha256": "04D0C738FB9287C4DC948AD052A5D7334770C55B5E1BCF808422C24C7578B863"
+  },
+  {
+    "file": "assets/brand/favicon-48.png",
+    "source": "https://media.nofan.xyz/nofan-box/site_uploads/files/000/000/011/48/4528e0d81da0d761.png",
+    "sha256": "D6A0EBBF9F9C7114C22F848440DD721C75271FA0E05A7BFA46BE6EC341081E81"
+  },
+  {
+    "file": "assets/brand/apple-touch-icon.png",
+    "source": "https://media.nofan.xyz/nofan-box/site_uploads/files/000/000/010/180/9d792ac5c0c89cec.png",
+    "sha256": "41DC7681160DFDD55F6B61374428909CA203884D8D2C5AD84558322A0C094654"
+  }
+]

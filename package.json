@@ -1,0 +1,12 @@
+{
+  "name": "nofan-homepage",
+  "version": "1.0.0",
+  "private": true,
+  "description": "nofan 社区介绍页：星河各处，饭友比邻。",
+  "type": "module",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "start": "node tools/serve.mjs",
+    "check": "node tools/check.mjs"
+  }
+}

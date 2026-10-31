@@ -1,0 +1,26 @@
+{
+  "method": "Browser rendering at deviceScaleFactor 2; source pixels preserved; original files retained",
+  "crops": [
+    {
+      "name": "rich-text",
+      "x": 103,
+      "y": 96,
+      "w": 416,
+      "h": 308
+    },
+    {
+      "name": "search-filters",
+      "x": 61,
+      "y": 2,
+      "w": 827,
+      "h": 342
+    },
+    {
+      "name": "account-switcher",
+      "x": 64,
+      "y": 44,
+      "w": 405,
+      "h": 301
+    }
+  ]
+}
